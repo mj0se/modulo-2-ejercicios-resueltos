@@ -1,0 +1,16 @@
+button {
+
+  padding: 20px;
+  border: 10px solid red;
+  color: yellow;
+
+}
+
+.hidden {
+  display: none;
+}
+
+.opacity {
+
+  opacity: 20%;
+}
